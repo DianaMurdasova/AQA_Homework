@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite">
+    <test name="AllTests">
+        <parameter name = "browser_type" value = "firefox"/>
+        <classes>
+            <class name="lesson8.parameter.ParametersExample"/>
+        </classes>
+    </test>
+</suite>
